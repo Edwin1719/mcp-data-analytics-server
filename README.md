@@ -1,6 +1,6 @@
 # 🔧 MCP Data Analytics Server
 
-![texto del vínculo](https://img.freepik.com/fotos-premium/retrato-ai-generando-banner-concepto-tecnologia-futura-contenido_310913-1658.jpg)
+![texto del vínculo](https://camo.githubusercontent.com/58b51da4887fd84007572883d81033edf32743eff1e6947173054487c627a953/68747470733a2f2f6173736574732e706963616f732e636f6d2f6769742f706963612d6d63702e706e67)
 
 > Servidor MCP para análisis de datos con interfaz Streamlit
 
