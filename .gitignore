@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv
+.env
+
+# Temporary files
+temp/
+temp_*
+*.tmp
+*.log
+
+# Data files (except examples)
+*.csv
+*.xlsx
+*.json
+*.pdf
+!examples/*.csv
+!examples/*.xlsx
+!examples/*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
