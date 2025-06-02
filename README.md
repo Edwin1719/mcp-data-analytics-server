@@ -1,5 +1,7 @@
 # 🔧 MCP Data Analytics Server
 
+![texto del vínculo](https://img.freepik.com/fotos-premium/retrato-ai-generando-banner-concepto-tecnologia-futura-contenido_310913-1658.jpg)
+
 > Servidor MCP para análisis de datos con interfaz Streamlit
 
 Un servidor de análisis de datos construido con FastMCP que proporciona herramientas para procesamiento, análisis y visualización de datos, con una interfaz web intuitiva.
