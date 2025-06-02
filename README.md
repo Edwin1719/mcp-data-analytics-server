@@ -43,7 +43,7 @@ Abrir navegador en: http://localhost:8501
 
 📋 Herramientas Disponibles
 
-- analizar_archivoAnálisis: completo de propiedades de archivos
+- analizar_archivo: Análisis completo de propiedades de archivos
 - crear_archivo: Creación de archivos con contenido
 - leer_documento: Lectura de PDFs, TXT, CSV con límites
 - analizar_datos: Análisis estadístico de datasets
