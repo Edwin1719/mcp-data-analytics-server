@@ -1,5 +1,6 @@
 # Core MCP
 fastmcp>=0.9.0
+mcp-use
 
 # Data Analysis
 pandas>=2.0.0
